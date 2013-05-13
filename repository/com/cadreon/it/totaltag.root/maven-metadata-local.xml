@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cadreon.it</groupId>
+  <artifactId>totaltag.root</artifactId>
+  <versioning>
+    <versions>
+      <version>3.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130211024058</lastUpdated>
+  </versioning>
+</metadata>

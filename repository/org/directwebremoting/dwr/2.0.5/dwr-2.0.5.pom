@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.directwebremoting</groupId>
+	<artifactId>dwr</artifactId>
+	<packaging>jar</packaging>
+	<version>2.0.5</version>
+	<name>dwr</name>
+	<url>http://directwebremoting.org</url>
+  
+	<distributionManagement>
+		<repository>
+			<id>skyway-internal-site</id>
+			<name>Skyway Internal Maven Repository</name>
+			<url>file:/apache-tomcat-6.0.18/webapps/ROOT/maven-repo</url>
+		</repository>
+	</distributionManagement>
+  
+	<repositories>
+		<repository>
+			<id>skyway-internal-site</id>
+			<name>Skyway Internal Maven Repository</name>
+			<url>http://qabuild01/maven-repo</url>
+		</repository>
+	</repositories>
+
+</project>
+				

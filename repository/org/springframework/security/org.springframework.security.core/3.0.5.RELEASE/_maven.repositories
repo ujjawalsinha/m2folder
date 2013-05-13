@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Feb 20 21:57:43 PST 2013
+org.springframework.security.core-3.0.5.RELEASE.pom>=
+org.springframework.security.core-3.0.5.RELEASE.jar>=

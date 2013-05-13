@@ -1,0 +1,15 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu May 09 11:25:31 PDT 2013
+http\://source.cadreon.com/artifactory/libs-snapshot/.error=
+http\://downloads.skywayperspectives.org/maven-repo/.error=
+http\://downloads.skywayperspectives.org/maven-repo/.lastUpdated=1368122498727
+http\://repo.maven.apache.org/maven2/.lastUpdated=1368123931461
+http\://source.cadreon.com/artifactory/libs-release/.lastUpdated=1368122498523
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1368122498958
+http\://source.cadreon.com/artifactory/libs-snapshot/.lastUpdated=1368122498600
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://source.cadreon.com/artifactory/libs-release/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1368122499452
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1368122499191

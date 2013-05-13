@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 07 10:48:52 PDT 2013
+com.springsource.org.apache.commons.logging-1.0.4.pom>com.springsource.repository.bundles.external=
+com.springsource.org.apache.commons.logging-1.0.4-sources.jar>com.springsource.repository.bundles.external=
+com.springsource.org.apache.commons.logging-1.0.4.jar>com.springsource.repository.bundles.external=

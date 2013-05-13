@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 07 10:49:19 PDT 2013
+com.springsource.org.junit-4.7.0.pom>=
+com.springsource.org.junit-4.7.0.jar>com.springsource.repository.bundles.external=
+com.springsource.org.junit-4.7.0-sources.jar>com.springsource.repository.bundles.external=
+com.springsource.org.junit-4.7.0.pom>com.springsource.repository.bundles.external=
+com.springsource.org.junit-4.7.0.jar>=

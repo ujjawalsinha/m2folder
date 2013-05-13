@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 07 10:49:05 PDT 2013
+com.springsource.org.aopalliance-1.0.0.jar>com.springsource.repository.bundles.external=
+com.springsource.org.aopalliance-1.0.0-sources.jar>com.springsource.repository.bundles.external=
+com.springsource.org.aopalliance-1.0.0.pom>com.springsource.repository.bundles.external=
